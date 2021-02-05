@@ -223,8 +223,8 @@ section:nth-child(2n+1){
     margin-bottom: 2px;
 }
 .edu-logo{
-   width: 120px;
-   height: 120px;
+   width: 100px;
+   height: 100px;
    position: absolute;
     /* overflow: hidden;  */
 
